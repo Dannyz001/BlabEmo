@@ -424,7 +424,11 @@
             padding-inline: 5px;
         }    
         
-
+        .footer{
+           
+            padding: 90px 0 40px;
+            
+        }
     
     .foot-section-container{
        padding-inline: 10px;
