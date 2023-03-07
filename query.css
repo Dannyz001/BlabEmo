@@ -358,9 +358,18 @@
     .review-para{
         width:80%;
     }
+
+    .subcription-maincontainer{
+        padding: 20px  10px;
+        width: 100%;
+    }
 }
 
 @media screen and (max-width:400px) {
+
+    .main-container{
+        height: 900px;    
+    }
     .description-mainheading{
         width: 100%;
     }
@@ -412,6 +421,10 @@
         margin-inline: 20px;
        gap: 10px;
          font-size: 10px;
+    }
+
+    .main-footer{
+        margin-top: 150px;
     }
 
 
