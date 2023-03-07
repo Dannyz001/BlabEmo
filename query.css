@@ -376,7 +376,7 @@
      }
 
      .review-box{
-        width: 100%;
+        width: 80%;
     }
 
     .sponsors{
@@ -386,8 +386,7 @@
     }
 
     .sponsors img{
-        width:25px;
-        background-color: aqua;
+        width:50px;
     }
     #get-started{
     
@@ -398,12 +397,13 @@
     .createAcct {
     
         width: 90%;
+        text-align: center;
 
         
         } 
 
         .review-section{
-            padding-inline: 2px;
+            padding-inline: 5px;
         }    
         
 
