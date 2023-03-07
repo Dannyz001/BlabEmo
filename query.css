@@ -290,6 +290,11 @@
     
     }
 
+    .navigation-bar {
+        padding: 10px 30px;
+      
+    }
+
     .description-mainheading, .description-sub {
       
         width: 80%;
@@ -382,6 +387,7 @@
 
     .sponsors img{
         width:25px;
+        background-color: aqua;
     }
     #get-started{
     
@@ -391,15 +397,22 @@
     }
     .createAcct {
     
-        width: 80%;
+        width: 90%;
+
         
         } 
+
+        .review-section{
+            padding-inline: 2px;
+        }    
+        
+
     
     .foot-section-container{
-            margin-inline: 20px;
-            gap: 10px;
-            font-size: 10px;
-            }
+        margin-inline: 20px;
+       gap: 10px;
+         font-size: 10px;
+    }
 
 
 
