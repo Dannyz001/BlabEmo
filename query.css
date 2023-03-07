@@ -368,7 +368,7 @@
 @media screen and (max-width:400px) {
 
     .main-container{
-        height: 900px;    
+        height: 930px;    
     }
     .description-mainheading{
         width: 100%;
@@ -412,7 +412,7 @@
     
     .createAcct {
     
-        width: 70%;
+        width: 80%;
         text-align: center;
 
         
@@ -425,9 +425,9 @@
 
     
     .foot-section-container{
-        margin-inline: 10px;
-       gap: 10px;
-         font-size: 10px;
+        padding-inline: 10px;
+       gap: 9px;
+         font-size: 8px;
     }
 
     .main-footer{
