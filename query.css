@@ -228,9 +228,7 @@
     .sponsors{
         gap: 10px;
         padding: 20px 5px;
-       
-        
-       
+     
     }
 
     .sponsors img{
@@ -359,25 +357,31 @@
 
 @media screen and(max-width: 400px) {
     .description-mainheading{
-        width: 95%;
+        width: 100%;
     }
 
     .form{
-        display: flex; 
-        gap: 60px; 
+       display: block;
+     
          
     }
     .qoutable{
-        width: 80%;
+        width: 99%;
       
      }
 
      .review-box{
-        width: 92%;
+        width: 100%;
+    }
+
+    .sponsors{
+        gap: 5px;
+        padding: 20px 2px;
+     
     }
 
     .sponsors img{
-        width:50px;
+        width:25px;
     }
     #get-started{
     
@@ -390,6 +394,12 @@
         width: 80%;
         
         } 
+    
+    .foot-section-container{
+            margin-inline: 20px;
+            gap: 10px;
+            font-size: 10px;
+            }
 
 
 
