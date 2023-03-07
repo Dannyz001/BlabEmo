@@ -403,9 +403,16 @@
         
      
     }
+
+    .start-up{
+        width: 100%;
+        
+        padding: 20px 10px; 
+        
+    
     .createAcct {
     
-        width: 90%;
+        width: 70%;
         text-align: center;
 
         
@@ -418,7 +425,7 @@
 
     
     .foot-section-container{
-        margin-inline: 20px;
+        margin-inline: 10px;
        gap: 10px;
          font-size: 10px;
     }
