@@ -412,8 +412,9 @@
     
     .createAcct {
     
-        width: 80%;
+        width: 90%;
         text-align: center;
+        
 
         
         } 
@@ -425,8 +426,8 @@
 
     
     .foot-section-container{
-        padding-inline: 10px;
-       gap: 9px;
+       margin-inline: 20px;
+        gap: 9px;
          font-size: 8px;
     }
 
